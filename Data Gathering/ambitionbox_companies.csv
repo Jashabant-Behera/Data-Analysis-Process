@@ -1,0 +1,58 @@
+company_name,rating,founded_year,india_employee_count,global_employee_count,india_headquarters,headquarters,website,primary_industry
+TCS,3.4,1968 (57 yrs old),1 Lakh+,1 Lakh+,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+Accenture,3.7,1989 (36 yrs old),1 Lakh+,1 Lakh+,N/A,"Bangalore / Bengaluru, Karnataka3.61 office location",N/A,N/A
+Wipro,3.6,1945 (80 yrs old),1 Lakh+,1 Lakh+,N/A,"Bangalore/Bengaluru, Karnataka, India",N/A,N/A
+Cognizant,3.7,1994 (31 yrs old),1 Lakh+,1 Lakh+,N/A,"Hyderabad / Secunderabad, Telangana3.71 office location",N/A,N/A
+Capgemini,3.7,1967 (58 yrs old),1 Lakh+,1 Lakh+,N/A,"Pune, Maharashtra3.7HQ",N/A,N/A
+HDFC Bank,3.8,1994 (31 yrs old),1 Lakh+,1 Lakh+,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+Infosys,3.5,N/A,N/A,N/A,N/A,"Bangalore / Bengaluru, Karnataka3.4HQ& 7 office locations",N/A,N/A
+ICICI Bank,4.0,1994 (31 yrs old),1 Lakh+,1 Lakh+,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+HCLTech,3.4,N/A,N/A,N/A,N/A,"Noida, Uttar Pradesh",N/A,N/A
+Tech Mahindra,3.4,1986 (39 yrs old),1 Lakh+,1 Lakh+,N/A,"Pune, Maharashtra, India",N/A,N/A
+Genpact,3.6,1997 (28 yrs old),50k-1 Lakh,1 Lakh+,N/A,"New York, New York3.6HQ",N/A,N/A
+Teleperformance,3.8,1978 (47 yrs old),50k-1 Lakh,1 Lakh+,N/A,"Gurgaon / Gurugram, Haryana3.71 office location",N/A,N/A
+Axis Bank,3.6,1993 (32 yrs old),1 Lakh+,50k-1 Lakh,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+Jio,4.3,2018 (7 yrs old),50k-1 Lakh,1 Lakh+,N/A,"Navi Mumbai, Maharashtra, India",N/A,N/A
+Concentrix Corporation,3.6,1983 (42 yrs old),50k-1 Lakh,50k-1 Lakh,N/A,"Gurgaon / Gurugram, Haryana3.6No address available",N/A,N/A
+Amazon,3.9,1994 (31 yrs old),1 Lakh+,1 Lakh+,N/A,"Hyderabad / Secunderabad, Telangana3.92 office locations",N/A,N/A
+iEnergizer,4.6,N/A,N/A,N/A,N/A,"Noida, Uttar Pradesh4.7HQ",N/A,N/A
+Reliance Retail,3.9,2006 (19 yrs old),1 Lakh+,1 Lakh+,N/A,"Mumbai, Maharashtra3.6HQ",N/A,N/A
+IBM,3.9,1911 (114 yrs old),1 Lakh+,1 Lakh+,N/A,"Bangalore / Bengaluru, Karnataka3.9HQ& 2 office locations",N/A,N/A
+LTIMindtree,3.6,1997 (28 yrs old),50k-1 Lakh,50k-1 Lakh,N/A,"Bangalore / Bengaluru, Karnataka3.5No address available",N/A,N/A
+HDB Financial Services,3.9,2007 (18 yrs old),50k-1 Lakh,1 Lakh+,N/A,"Ahmedabad, Gujrat, India",N/A,N/A
+Deloitte,3.7,1845 (180 yrs old),1 Lakh+,1 Lakh+,N/A,"Hyderabad / Secunderabad, Telangana3.81 office location",N/A,N/A
+Kotak Mahindra Bank,3.6,N/A,N/A,N/A,N/A,"Mumbai, Maharashtra3.4HQ& 1 office locations",N/A,N/A
+Reliance Industries,4.0,1977 (48 yrs old),1 Lakh+,1 Lakh+,N/A,"Navi Mumbai, Maharashtra, India",N/A,N/A
+Vodafone Idea,3.9,2018 (7 yrs old),5k-10k,10k-50k,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+BYJU'S,3.2,2011 (14 yrs old),5k-10k,5k-10k,N/A,"Bangalore / Bengaluru, Karnataka3.0HQ",N/A,N/A
+Bharti Airtel,3.9,1952 (73 yrs old),10k-50k,10k-50k,N/A,"Gurgaon/Gurugram, Haryana, India",N/A,N/A
+WNS,3.3,1996 (29 yrs old),10k-50k,10k-50k,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+AU Small Finance Bank,3.9,1996 (29 yrs old),50k-1 Lakh,N/A,N/A,"Jaipur, Rajasthan, India",N/A,N/A
+Tata Motors,4.1,1945 (80 yrs old),10k-50k,50k-1 Lakh,N/A,"Pune, Maharashtra, India",N/A,N/A
+IndusInd Bank,3.4,N/A,N/A,N/A,N/A,"Mumbai, Maharashtra3.0HQ",N/A,N/A
+IDFC FIRST Bank,3.9,N/A,N/A,N/A,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+Flipkart,3.9,2007 (18 yrs old),10k-50k,10k-50k,N/A,"Bangalore / Bengaluru, Karnataka3.76 office locations",N/A,N/A
+Bajaj Finserv,3.9,2007 (18 yrs old),50k-1 Lakh,N/A,N/A,"Pune, Maharashtra3.6No address available",N/A,N/A
+PwC,3.3,1880 (145 yrs old),10k-50k,1 Lakh+,N/A,"Bangalore / Bengaluru, Karnataka3.32 office locations",N/A,N/A
+Muthoot FinCorp,4.5,N/A,N/A,N/A,N/A,"Bangalore / Bengaluru, Karnataka4.3No address available",N/A,N/A
+DXC Technology,3.6,2017 (8 yrs old),10k-50k,1 Lakh+,N/A,"Bangalore / Bengaluru, Karnataka3.6No address available",N/A,N/A
+Infosys BPM,3.5,2002 (23 yrs old),10k-50k,50k-1 Lakh,N/A,"Bangalore/Bengaluru, Karnataka, India",N/A,N/A
+HDFC Life,3.9,N/A,N/A,N/A,N/A,"Mumbai, Maharashtra3.4HQ& 3 office locations",N/A,N/A
+Bandhan Bank,3.7,N/A,N/A,N/A,N/A,"Kolkata, West Bengal3.4No address available",N/A,N/A
+Conneqt Business Solutions,3.6,2002 (23 yrs old),10k-50k,10k-50k,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+Mphasis,3.3,1998 (27 yrs old),10k-50k,10k-50k,N/A,"Bangalore/Bengaluru, Karnataka, India",N/A,N/A
+Yes Bank,3.7,2004 (21 yrs old),10k-50k,10k-50k,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+Tata Steel,4.0,1907 (118 yrs old),1 Lakh+,1 Lakh+,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+Quess,3.8,2007 (18 yrs old),1 Lakh+,1 Lakh+,N/A,"Bangalore, India",N/A,N/A
+Startek,3.1,2017 (8 yrs old),10k-50k,10k-50k,N/A,"Bangalore / Bengaluru, Karnataka3.0No address available",N/A,N/A
+Asian Paints,3.9,N/A,N/A,N/A,N/A,"Mumbai, Maharashtra3.7No address available",N/A,N/A
+Paytm,3.2,N/A,N/A,N/A,N/A,"Noida, Uttar Pradesh3.1HQ",N/A,N/A
+UltraTech Cement,4.1,1983 (42 yrs old),10k-50k,10k-50k,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+Shriram Finance,4.0,1979 (46 yrs old),50k-1 Lakh,50k-1 Lakh,N/A,"Mumbai, Maharashtra, India",N/A,N/A
+Maruti Suzuki,4.2,1981 (44 yrs old),10k-50k,10k-50k,N/A,"New Delhi, Delhi, India",N/A,N/A
+Bajaj Finance,3.9,1987 (38 yrs old),50k-1 Lakh,N/A,N/A,"Pune, Maharashtra, India",N/A,N/A
+Sutherland Global Services,3.4,N/A,N/A,N/A,N/A,"Chennai, Tamil Nadu3.41 office location",N/A,N/A
+EXL Service,3.6,N/A,N/A,N/A,N/A,"Bangalore / Bengaluru, Karnataka3.4HQ& 2 office locations",N/A,N/A
+Cipla,4.1,1935 (90 yrs old),10k-50k,10k-50k,N/A,"Mumbai, Maharashtra4.0HQ",N/A,N/A
+Samsung,3.9,1969 (56 yrs old),50k-1 Lakh,N/A,N/A,"Noida, Uttar Pradesh3.81 office location",N/A,N/A
+Ericsson,4.0,N/A,N/A,N/A,N/A,"Noida, Uttar Pradesh4.01 office location",N/A,N/A
